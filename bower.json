@@ -1,0 +1,24 @@
+{
+  "name": "air-bridge",
+  "homepage": "https://github.com/jay8t6/air-bridge",
+  "authors": [
+    "https://github.com/marchbold",
+    "Jaganathan Kaliyaperumal <write2jaga@maritz.com>"
+  ],
+  "description": "AirBridge Javascript helper to communicate from JS to the WebView instance",
+  "main": "air-bridge.html",
+  "keywords": [
+    "AIRBridge",
+    "javascript",
+    "communication",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
